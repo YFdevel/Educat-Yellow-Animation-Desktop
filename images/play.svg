@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="20px" viewBox="0 0 17 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Прототип" transform="translate(-719.000000, -978.000000)">
+            <g id="Group-2" transform="translate(713.000000, 976.000000)">
+                <path d="M6,3.01164954 L6,20.9885118 C6,21.5407966 6.44771525,21.9885118 7,21.9885118 C7.18090757,21.9885118 7.35842675,21.9394365 7.51364586,21.8465141 L22.5274919,12.8584265 C23.0013535,12.5747477 23.1555271,11.9606399 22.8718484,11.4867783 C22.7871995,11.3453795 22.6689168,11.2270928 22.5275208,11.1424392 L7.51367476,2.15366455 C7.03982273,1.86996982 6.42570974,2.02412276 6.14201501,2.49797479 C6.04908148,2.65320058 6,2.83073054 6,3.01164954 Z" id="Mask" fill="#000000"></path>
+                <g id="Rectangle" fill-rule="nonzero">
+                    <rect x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
